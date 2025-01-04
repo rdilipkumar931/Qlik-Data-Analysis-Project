@@ -8,7 +8,7 @@ The project aims to utilize Qlik's data analytics platform to analyze road safet
 
 
 ### Data Link : 
- - <a href="https://drive.google.com/drive/folders/1THLEJ7XSw1U3iXbPDN20BKlHq3eRL4AI?usp=sharing"> Dataset </a>
+ - <a href="https://github.com/rdilipkumar931/Qlik-Data-Analysis-Project/tree/main/Road%20Accident%20Data"> Dataset </a>
 ### Project Story Telling PDF File Link: 
 - <a href="https://drive.google.com/file/d/1qCFYflxSPfulV26mka4t0zIPw1v5z1wI/view?usp=sharing"> Story Telling PDF File </a>
 ### Project Demonstration Link: 
