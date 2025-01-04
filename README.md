@@ -3,6 +3,10 @@
 ## Project Description: 
 The project aims to utilize Qlik's data analytics platform to analyze road safety and accident patterns in India. By leveraging various data sources, such as traffic data, accident reports, weather conditions, road infrastructure details, and demographic information, the project seeks to identify trends, hotspots, and factors contributing to road accidents. This analysis will help stakeholders, including government authorities, transportation agencies, and road safety organizations, make data-driven decisions to improve road safety measures, reduce accidents, and save lives.
 
+### Dashboard
+![Screenshot 2025-01-04 203221](https://github.com/user-attachments/assets/12a6e946-4891-41b8-978a-45b7d98139d5)
+
+
 ### Data Link : 
  - <a href="https://drive.google.com/drive/folders/1THLEJ7XSw1U3iXbPDN20BKlHq3eRL4AI?usp=sharing"> Dataset </a>
 ### Project Story Telling PDF File Link: 
