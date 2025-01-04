@@ -13,3 +13,10 @@ The project aims to utilize Qlik's data analytics platform to analyze road safet
 - <a href="https://drive.google.com/file/d/1qCFYflxSPfulV26mka4t0zIPw1v5z1wI/view?usp=sharing"> Story Telling PDF File </a>
 ### Project Demonstration Link: 
 - <a href="https://drive.google.com/file/d/1fD7dA8-C7j75qeBv6Ee8nx4YZPQhLJ82/view?usp=sharing"> Project Demonstration Video </a>
+
+### Key Insight
+- Overspeeding is a leading cause of accidents in India, accounting for nearly 70% of road fatalities.
+- Using mobile phones while driving or crossing roads is a significant contributor to accidents, as it diverts attention and slows down reflexes. This behavior is prevalent among both drivers and pedestrians.
+- A considerable percentage of road users are unaware of or choose to ignore basic traffic rules, such as right-of-way, lane discipline, and using indicators. This ignorance leads to chaotic traffic behavior and accidents.
+- Driving under the influence of alcohol or drugs remains a serious issue, impairing judgment and reaction time. Despite stringent penalties, enforcement gaps contribute to the persistence of this problem.
+- Non-compliance with helmet and seatbelt usage laws leads to higher fatalities and severe injuries during accidents, especially for two-wheeler riders and car occupants.
